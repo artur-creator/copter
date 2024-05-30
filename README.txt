@@ -11,4 +11,4 @@ Ammo refills 10
 On death game restarts
 
 Controls:
-WASD, Space(Go up), CTRL(Go down), Mouse to look, LMD to shot
+WASD, Space(Go up), CTRL(Go down), Mouse to look, LMB to shot
